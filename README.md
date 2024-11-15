@@ -1,32 +1,15 @@
-Project Name: student Result Management System
-How to run this Project
+Description
+The Student Result Management System is a user-friendly web application designed to manage and display student results efficiently. It provides an intuitive interface for administrators to manage student records and allows students to access their results online. The system ensures accurate grade calculations and smooth navigation.
 
-1. Download and Unzip file on your local system copy srms folder.
+Features
+-Manage Student Records: Add, update, and delete student details effortlessly.
+-Dynamic Grade Calculation: Automatically compute grades based on entered scores.
+-User Roles: Separate access for administrators and students with secure login.
+-Responsive Design: Works seamlessly on both desktops and mobile devices.
 
-2. Put srms folder inside root directory
-
-Database Configuration
-
-Open phpmyadmin
-Create Database srms
-Import database srms.sql (available inside zip package)
-
-For User
-
-Open Your browser put inside browser “http://localhost/srms”
-Details of student  --
+Technologies Used
+-Frontend: Built with HTML, CSS, and JavaScript to create an interactive and responsive user interface.
+-Backend: Powered by Django, a robust Python web framework for efficient data handling and backend logic.
+-Database: SQLite for storing and managing student data securely.
 
 
-Student name-- Anuj Kumar 
-
-
-Roll id--10861
-Student Class: Fourth(C)
-
-For Admin Panel
-
-Open Your browser put inside browser “http://localhost/srms”
-Login Details for admin : admin/Test@123
-
-
-For More Details --- https://phpgurukul.com/student-result-management-system/
